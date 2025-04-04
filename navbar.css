@@ -1,0 +1,36 @@
+header {
+    align-items: center;
+    padding: 10px;
+    display: flex;
+    background-color: #3CB371;
+}
+.header_buttons {
+    display: flex;
+    padding: 20px;
+}
+.leaderboard {
+    margin-left: 10px;
+    padding: 10px;
+    align-items: end;
+    background-color: #2E8B57;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: .3s;
+}
+.leaderboard:hover {
+    transform: scale(1.1);
+}
+#ziya8637logo {
+    transition: .3s;
+}
+#ziya8637logo:hover {
+    transform: scale(1.1);
+}
+#jh7j41kp40etG8JeJOwv0w:hover {
+    transform: scale(1.1);
+}
+.end {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: #ffffff;
+}

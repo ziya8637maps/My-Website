@@ -1,0 +1,41 @@
+.maps_gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    margin-left: 20px;
+    justify-content: center;
+}
+.parkour_rectangle {
+    width: 21rem;
+    text-decoration: none;
+    color: black;
+    border: 2px solid #a5a5a5;
+    padding-bottom: 20px;
+    margin: 50px !important;
+    font-size: 15px;
+    border-radius: 6px;
+    transition: .3s;
+}
+.parkour-rectangle-icon {
+    width: 100%;
+}
+.parkour_rectangle:hover {
+    transform: scale(1.05);
+}
+.parkour_rectangle-2 {
+    width: 21rem;
+    text-decoration: none;
+    color: black;
+    border: 2px solid #a5a5a5;
+    padding-bottom: 20px;
+    margin: 50px !important;
+    font-size: 15px;
+    border-radius: 6px;
+    transition: .3s;
+}
+.parkour-rectangle-2-icon {
+    width: 100%;
+}
+.parkour_rectangle-2:hover {
+    transform: scale(1.05);
+}
